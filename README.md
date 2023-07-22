@@ -4,9 +4,11 @@ Awesome Apple visionOS related content
 
 ## Contents
 - [Prototypes](#prototypes)
+    - [Github Repos](#prototypes-githubRepos)
     - [Twitter Posts](#prototypes-twitterPosts)
     - [Other Sources](#prototypes-otherSources)
 - [Learn](#learn)
+    - [Github Repos](#learn-githubRepos)
     - [Twitter Posts](#learn-twitterPosts)
     - [Podcasts](#learn-podcasts)
 - [People To Follow](#peopleToFollow)
@@ -17,6 +19,36 @@ Awesome Apple visionOS related content
 
 <a name="prototypes"></a>
 ## Prototypes
+<a name="prototypes-githubRepos"></a>
+### Github Repos
+- [KSPlayer on visionOS](https://github.com/kingslay/KSPlayer)
+- [WGSL running in visionOS](https://github.com/jinleili/wgpu-in-app)
+- [30 Days with visionOS](https://github.com/satoshi0212/visionOS_30Days)
+- [Dream with Vision Pro](https://github.com/Sigil-Wen/Dream-with-Vision-Pro)
+- [ISS in your room](https://github.com/ynagatomo/ISSInYourRoomVO)
+- [Stereoscopic Screenshots](https://github.com/zhuowei/VisionOSStereoScreenshots)
+- [ChatGPT + visionOS Documentation](https://github.com/Takuzen/visionosdocsgpt-cli)
+- [VisionCraft](https://github.com/Sigil-Wen/VisionCraft)
+- [Rickies3D](https://github.com/JamBlumberg/Rickies3D)
+- [Build visionOS in React](https://github.com/gabrieldonadel/react-native-visionos)
+- [Note App](https://cordovaputra.com/works/spatial-experience)
+- [Lightweight 3D visualizer](https://github.com/matteofontana-app/MF3DE)
+- [Trivial Red Cube](https://github.com/faisalmemon/trivial-red-cube-visionos-app)
+- [Netflix Vision Pro](https://github.com/barisozgenn/NetflixVisionPro)
+- [Stock Watcher App](https://github.com/6/StonksPro)
+- [Rick and Morty API](https://github.com/AdrianZzito/Rick-Morty-visionOS) and [here](https://github.com/Muruadev/RickAndMorty-visionOS)
+- [Movie Application using Flutter](https://github.com/Thaanu2001/Movie-App-VisionOS-Flutter)
+- [List of Swift Packages using RealityKit](https://github.com/maxxfrazer/RealityKit-Package-Collection)
+- [BookSight](https://github.com/AdrianZzito/visionOS-Portfolio)
+- [OSLog for visionOS](https://github.com/gokulnair2001/OSLogKit)
+- [Sports stats](https://github.com/alfianlosari/XCAFootballStats)
+- [Funnyassi spawn](https://github.com/TETRA2000/visionOS-Funassyi)
+- [RealityGeometries](https://github.com/maxxfrazer/RealityGeometries)
+- [Metal Rendering](https://github.com/metal-by-example/metal-spatial-rendering)
+- [Playground for someone](https://github.com/anshumalivfx/First_Vision_Pro_App)
+- [Simple Calculator](https://github.com/bahadiraraz/visionOS-example) and [here](https://github.com/ishaanbedi/Vision-Calculator) and [here](https://github.com/fukutawata/visionOS_calculator)
+- [visionOS in Quest](https://github.com/JustinPBarnett/visionOS-Demo)
+- [Develop with Imagine lol](https://github.com/BaeBae33/visionOS-develop-with-imagine)
 <a name="prototypes-twitterPosts"></a>
 ### Twitter Posts
 - Satoshi visionOS daily challenge
@@ -79,6 +111,10 @@ Awesome Apple visionOS related content
 <a name="learn"></a>
 ## Learn
 - [Apple's Official Learn Page](https://developer.apple.com/visionos/learn/)
+<a name="learn-githubRepos"></a>
+### Github Repos
+- [Explore visionOS](https://github.com/castlewong/visionOS-Explorer)
+- [Getting Started Guide](https://github.com/hunterh37/Introduction-to-VisionOS-and-Spatial-Computing)
 <a name="learn-twitterPosts"></a>
 ### Twitter Posts
 - [Various Apple Resources](https://twitter.com/lindadong/status/1671620800024317954?s=20)
@@ -92,7 +128,10 @@ Awesome Apple visionOS related content
 
 <a name="peopleToFollow"></a>
 ## People To Follow
+- [Satoshi](https://twitter.com/shmdevelop)
 - [Tina Nigro](https://twitter.com/tina__nigro)
+- [Bart Trzynadlowski](https://twitter.com/BartronPolygon)
+- [Sadao Tokuyama](https://twitter.com/tokufxug)
 - [Tom Krikorian](https://twitter.com/tom_krikorian)
 - [Atilla Taşkıran](https://twitter.com/_atilla1)
 - [Ben Hylak](https://twitter.com/benhylak/status/1666171775028449281?s=20)
