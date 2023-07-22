@@ -1,30 +1,87 @@
 # Awesome visionOS
-Awesome Apple visionOS resources
+Awesome Apple visionOS related content
 
 
 ## Contents
 - [Prototypes](#prototypes)
     - [Twitter Posts](#prototypes-twitterPosts)
+    - [Other Sources](#prototypes-otherSources)
 - [Learn](#learn)
     - [Twitter Posts](#learn-twitterPosts)
     - [Podcasts](#learn-podcasts)
 - [People To Follow](#peopleToFollow)
 - [AR Concepts](#arConcepts)
+- [Hardware](#deviceHardwareSoftware)
+- [Critique](#critique)
+- [Speculation](#speculation)
 
 <a name="prototypes"></a>
 ## Prototypes
 <a name="prototypes-twitterPosts"></a>
 ### Twitter Posts
+- Satoshi visionOS daily challenge
+    - [1](https://twitter.com/shmdevelop/status/1672799272113242116?s=20), [2](https://twitter.com/shmdevelop/status/1673172377935679488?s=20), [3](https://twitter.com/shmdevelop/status/1673937080106512384?s=20), [4](https://twitter.com/shmdevelop/status/1674386249061404672?s=20), [5](https://twitter.com/shmdevelop/status/1675383355708420096?s=20), [6](https://twitter.com/shmdevelop/status/1675670697891491841?s=20), [7](https://twitter.com/shmdevelop/status/1676121557880688640?s=20), [8](https://twitter.com/shmdevelop/status/1676878660194963457?s=20), [9](https://twitter.com/shmdevelop/status/1677360102884667393?s=20), [10](https://twitter.com/shmdevelop/status/1677724208439361538?s=20), [11](https://twitter.com/shmdevelop/status/1678113898153791488?s=20), [12](https://twitter.com/shmdevelop/status/1678762009473724424?s=20), [13](https://twitter.com/shmdevelop/status/1679817051408601090?s=20), [14](https://twitter.com/shmdevelop/status/1680318436243828738?s=20), [15](https://twitter.com/shmdevelop/status/1680636629734813696?s=20), [16](https://twitter.com/shmdevelop/status/1680958015418281984?s=20),  [17](https://twitter.com/shmdevelop/status/1682015838818402304?s=20)
+- [Hologram like material for models](https://twitter.com/tokufxug/status/1680826610159869953?s=20) and [glass-like material](https://twitter.com/tokufxug/status/1680286061283655680)
+- [Shader graph experiments](https://twitter.com/tokufxug/status/1679537433929748480?s=20) and [here too](https://twitter.com/tokufxug/status/1679538370501054467?s=20)
+- [Mixamo to visionOS](https://twitter.com/tokufxug/status/1679190497783590912?s=20)
+- [immersiv.io](https://twitter.com/Immersiv_/status/1681245041648365570?s=20)
+- [Background Blur Effect](https://twitter.com/max9xs/status/1682384301797650434?s=20)
+- [Jadu Unity SDK for Vision Pro](https://twitter.com/JaduAVAs/status/1682081253544316928)
+- [Apple Valkyrie Pro](https://twitter.com/BartronPolygon/status/1681810387686264832) and [early building](https://twitter.com/BartronPolygon/status/1680823638470328320)
+- [Strike Force via game pad](https://twitter.com/BartronPolygon/status/1680744429127352320)
+- [Dream with Vision Pro](https://twitter.com/0xSigil/status/1680400417321287680?s=20)
+- [Model import & manipulation](https://twitter.com/tina__nigro/status/1679525059034075136)
+- [Persistent Content via WorldAnchors](https://twitter.com/eman2XR/status/1677974585965150209)
+- [Animations in visionOS](https://twitter.com/tina__nigro/status/1677104789744746496) and [here too](https://twitter.com/tina__nigro/status/1677351441659305995)
+- [Vendor Chat](https://twitter.com/CixLiv/status/1676667434332467200)
+- [.gpx file uploads by Tom Krikorian](https://twitter.com/tom_krikorian/status/1676262591616696322?s=20)
+- [z-layering content](https://twitter.com/tina__nigro/status/1675932246673334300)
+- [Drawing Preview](https://twitter.com/icreatelife/status/1675008939845353472?s=20)
+- [Lessons from Simulator building](https://twitter.com/hybridherbst/status/1674765750358122497?s=20)
+- [Unity in visionOS](https://twitter.com/tokufxug/status/1681993759700168706?s=20) and [here too](https://twitter.com/tokufxug/status/1674565807051776000?s=20)
+- [Infinite Scrolling](https://twitter.com/tina__nigro/status/1673828783139463169)
+- [Entire thread of prototypes the first week visionOS released](https://twitter.com/lindadong/status/1673407828571357184?s=20)
+- [Piano App](https://twitter.com/agathacapp/status/1672695658376056835)
+- [Unity build](https://twitter.com/Ruben_Fro/status/1672363816041201664)
+- [Sketchfab Concept by Tina Nigro](https://twitter.com/tina__nigro/status/1672268646373023744) and [further development](https://twitter.com/tina__nigro/status/1672385376596443136)
+- [Lighting tests](https://twitter.com/roadtoros/status/1672179071848153089)
+- [Pinned Windows](https://twitter.com/James_Abev/status/1672071737238867969)
+- [FrameVR on visionOS](https://twitter.com/gabrieljbaker/status/1671951956032782337)
+- [Bezel on visionOS](https://twitter.com/julianparc/status/1671786982572462082?s=20)
+- [Expo App](https://twitter.com/donadeldev/status/1671643367246032897)
+- [Mercury Weather](https://twitter.com/airkai/status/1671778818938540033)
+- [glTF Preview](https://twitter.com/warrenm/status/1671747346609344512)
+- [The Task App](https://twitter.com/mufasaYC/status/1671686518052642817)
+- [Three.js AVP](https://twitter.com/benhouston3d/status/1671683675589672961)
+- [WebXR Sample](https://twitter.com/kettlecorn/status/1671668786678644740)
+- [Planny App](https://twitter.com/kevin_reutter/status/1671655928364400641)
+- [Flighty App](https://twitter.com/FlightyApp/status/1671653865966403584)
+- [WebXR in Simulator](https://twitter.com/webmixedreality/status/1671645041540972551)
+- [Multiple Apps running in shared spaces](https://twitter.com/DanMillerDev/status/1671621892611145728)
+- [Freeform in visionOS simulator](https://twitter.com/DanMillerDev/status/1671620372649897984)
 - [Bartron Polygon](https://twitter.com/BartronPolygon/status/1681810387686264832?s=20)
+- [visionOS Component Library](https://twitter.com/_atilla1/status/1669063729088962565?s=20)
+- [Dan Miller's PolySpatial demo](https://twitter.com/DanMillerDev/status/1666830288637526016?s=20)
 - [Grabbing models from Apple website](https://twitter.com/willeastcott/status/1666046889014317056?s=20)
 - [iOS Object Capture](https://twitter.com/danmonaghanz/status/1666325516679540737?s=20)
+- [Recreating eye gaze + pinch interaction on Quest](https://twitter.com/pvncher/status/1667644409016614912?s=20)
+- [Glassmorphism inside SwiftUI by Alex Widua](https://twitter.com/alexwidua/status/1667204921190391810?s=20)
+- [Framer Website Vision Pro ui](https://twitter.com/zee7/status/1666830697829658624?s=20)
 - [ShapesXR preparing for hand pinch](https://twitter.com/ingashapes/status/1666553818497323009?s=20)
+- [Spline concept by Abe Yang](https://twitter.com/abeyang/status/1667289614766460930)
+- [GOLF+ alluding to working prototype here](https://twitter.com/Rengle820/status/1667692788123590658?s=20) and [here](https://twitter.com/Rengle820/status/1667954382707605504?s=20)
+<a name="prototypes-otherSources"></a>
+### Other Sources
+- [Streaming in AVP](https://dribbble.com/shots/21696108-Apple-Vision-Pro-Spatial-Stream?utm-medium=ownedsocial&utm_content=bufferdc416&utm_medium=ownedsocial&utm_source=twitter&utm_campaign=buffer)
+- [visionOS on Quest (before visionOS SDK release](https://www.vrcreators.io/visionos-demo-download)
+- [Soccer viewing concept on Dribbble](https://dribbble.com/shots/21682180-Football-Experience-Apple-Vision-Pro?utm-medium=ownedsocial&utm_content=buffer60ef8&utm_medium=ownedsocial&utm_source=twitter&utm_campaign=buffer)
 
 <a name="learn"></a>
 ## Learn
 - [Apple's Official Learn Page](https://developer.apple.com/visionos/learn/)
 <a name="learn-twitterPosts"></a>
 ### Twitter Posts
+- [Various Apple Resources](https://twitter.com/lindadong/status/1671620800024317954?s=20)
 - [Thread on AVP WWDC Talks by Reza Ali](https://twitter.com/RezaAli/status/1666131916951801857?s=20)
 - [Unity Polyspatial Thread by Eric Provencher](https://twitter.com/pvncher/status/1666476686576332800?s=20)
 - [WebXR feature flag](https://twitter.com/fernandojsg/status/1666082588132507660?s=20)
@@ -36,13 +93,46 @@ Awesome Apple visionOS resources
 <a name="peopleToFollow"></a>
 ## People To Follow
 - [Tina Nigro](https://twitter.com/tina__nigro)
+- [Tom Krikorian](https://twitter.com/tom_krikorian)
+- [Atilla Taşkıran](https://twitter.com/_atilla1)
 - [Ben Hylak](https://twitter.com/benhylak/status/1666171775028449281?s=20)
 - [Jonathan Ravasz](https://twitter.com/jonathan_ravasz/status/1666523399525666817?s=20)
 - [Rich Lyons](https://twitter.com/richlyons_)
 
 <a name="arConcepts"></a>
-## AR Concepts
+## XR Concepts
 Concept work not necessarily specific to Apple Vision Pro but interesting nonetheless
 - Greg Madison's ["Unity Carte Blanche"](https://twitter.com/GregMadison/status/1665612120744947714?s=20)
+- [Hand-Input Navigation](https://twitter.com/haltor/status/1671163104175194113)
+- [Finger Interaction Design](https://twitter.com/pvncher/status/1667926145172484097?s=20)
 - Josh Carpenter's ["Composable 3D Web"](https://joshcarpenter.ca/composable-3d-web/)
+- [Spatial Lego Building](https://twitter.com/panxueni/status/1669992883795918848)
 - [9 AR Concepts](https://twitter.com/0xDesigner/status/1665481112188227584?s=20)
+- [Guided tours in browser](https://twitter.com/albtaiuti/status/1672138397694201857)
+- [Spatial Coding at f.inc](https://twitter.com/jmdagdelen/status/1669445713045098501)
+- [Couple AVP with AirTags](https://twitter.com/_LucasRizzotto/status/1667611515212689409?s=20)
+
+<a name="deviceHardwareSoftware"></a>
+## Device Hardware & Software
+- [Interaction study on Eye Gaze & Pinch](https://twitter.com/KenPfeuffer/status/1674198938650390528)
+- [1.5 Meter Resctriction](https://twitter.com/VRmaninJapan/status/1671710366651523073?s=20)
+- [Mike Rockwell talking AVP display](https://twitter.com/Azadux/status/1667968411304079362?s=20) and [full video here](https://www.youtube.com/watch?v=DgLrBSQ6x7E)
+- [Real time body segmentation](https://twitter.com/pvncher/status/1671175232126689281?s=20)
+- [Spec Sheet](https://www.uploadvr.com/apple-vision-pro-specs-features-details/)
+- [Overhead strap](https://twitter.com/markgurman/status/1666991438863671298?s=20)
+- [visionOS built-in apps](https://twitter.com/aaronp613/status/1671619930498772992)
+
+<a name="critique"></a>
+## Critique
+- [Limited Rendering Control](https://twitter.com/Tojiro/status/1667028702734209025?s=20)
+- [Physics restrictions](https://twitter.com/BartronPolygon/status/1680314097248915456)
+
+<a name="speculation"></a>
+## Speculation
+- [VR Video as a major use case on launch](https://twitter.com/dvdaltizer/status/1677360272527302662)
+- [Music Creation as killer use case](https://twitter.com/BartronPolygon/status/1674507747004682240)
+- [Speculation on hardware changes down the line](https://twitter.com/markgurman/status/1667241221683818496?s=20)
+- [Google & Samsung re-entering XR](https://twitter.com/tina__nigro/status/1669388938455154713?s=20)
+- [Video Calls while working](https://twitter.com/Hockenmaier/status/1671962820135759872?s=20)
+- [Iterations of AVP](https://twitter.com/flyosity/status/1673534528172838917)
+- [Apparently cheaper model being developed](https://9to5mac.com/2023/06/11/apple-more-affordable-version-of-vision-pro/)
