@@ -4,24 +4,24 @@ Awesome Apple visionOS related content
 
 ## Contents
 - [Prototypes](#prototypes)
-    - [Github Repos](#prototypes-githubRepos)
-    - [Twitter Posts](#prototypes-twitterPosts)
-    - [Other Sources](#prototypes-otherSources)
+    - [Github Repos](#github-repos)
+    - [Twitter Posts](#twitter-posts)
+    - [Other Sources](#other-sources)
 - [Learn](#learn)
-    - [Online Courses](#learn-onlineCourses)
-    - [YouTube Tutorials](#learn-youtubeTutorials)
-    - [Github Repos](#learn-githubRepos)
-    - [Twitter Posts](#learn-twitterPosts)
-    - [Podcasts](#learn-podcasts)
-- [People To Follow](#peopleToFollow)
-- [AR Concepts](#arConcepts)
-- [Hardware](#deviceHardwareSoftware)
+    - [Online Courses](#online-courses)
+    - [YouTube Tutorials](#youtube-tutorials)
+    - [Github Repos](#github-repos-1)
+    - [Twitter Posts](#twitter-posts-1)
+    - [Podcasts](#podcasts)
+- [People To Follow](#people-to-follow)
+- [AR Concepts](#xr-concepts)
+- [Hardware](#device-hardware--software)
 - [Critique](#critique)
 - [Speculation](#speculation)
 
 <a name="prototypes"></a>
 ## Prototypes
-<a name="prototypes-githubRepos"></a>
+<a name="github-repos"></a>
 ### Github Repos
 - [Music Player UI](https://github.com/vinothvino42/MusicPlayerUI-VisionOS)
 - [Open visionOS: Animations and UI Designs](https://github.com/amosgyamfi/OpenvisionOS)
@@ -53,7 +53,7 @@ Awesome Apple visionOS related content
 - [Simple Calculator](https://github.com/bahadiraraz/visionOS-example) and [here](https://github.com/ishaanbedi/Vision-Calculator) and [here](https://github.com/fukutawata/visionOS_calculator)
 - [visionOS in Quest](https://github.com/JustinPBarnett/visionOS-Demo)
 - [Develop with Imagine lol](https://github.com/BaeBae33/visionOS-develop-with-imagine)
-<a name="prototypes-twitterPosts"></a>
+<a name="twitter-posts"></a>
 ### Twitter Posts
 - Satoshi visionOS daily challenge
     - [1](https://twitter.com/shmdevelop/status/1672799272113242116?s=20), [2](https://twitter.com/shmdevelop/status/1673172377935679488?s=20), [3](https://twitter.com/shmdevelop/status/1673937080106512384?s=20), [4](https://twitter.com/shmdevelop/status/1674386249061404672?s=20), [5](https://twitter.com/shmdevelop/status/1675383355708420096?s=20), [6](https://twitter.com/shmdevelop/status/1675670697891491841?s=20), [7](https://twitter.com/shmdevelop/status/1676121557880688640?s=20), [8](https://twitter.com/shmdevelop/status/1676878660194963457?s=20), [9](https://twitter.com/shmdevelop/status/1677360102884667393?s=20), [10](https://twitter.com/shmdevelop/status/1677724208439361538?s=20), [11](https://twitter.com/shmdevelop/status/1678113898153791488?s=20), [12](https://twitter.com/shmdevelop/status/1678762009473724424?s=20), [13](https://twitter.com/shmdevelop/status/1679817051408601090?s=20), [14](https://twitter.com/shmdevelop/status/1680318436243828738?s=20), [15](https://twitter.com/shmdevelop/status/1680636629734813696?s=20), [16](https://twitter.com/shmdevelop/status/1680958015418281984?s=20),  [17](https://twitter.com/shmdevelop/status/1682015838818402304?s=20)
@@ -106,7 +106,7 @@ Awesome Apple visionOS related content
 - [ShapesXR preparing for hand pinch](https://twitter.com/ingashapes/status/1666553818497323009?s=20)
 - [Spline concept by Abe Yang](https://twitter.com/abeyang/status/1667289614766460930)
 - [GOLF+ alluding to working prototype here](https://twitter.com/Rengle820/status/1667692788123590658?s=20) and [here](https://twitter.com/Rengle820/status/1667954382707605504?s=20)
-<a name="prototypes-otherSources"></a>
+<a name="other-sources"></a>
 ### Other Sources
 - [Streaming in AVP](https://dribbble.com/shots/21696108-Apple-Vision-Pro-Spatial-Stream?utm-medium=ownedsocial&utm_content=bufferdc416&utm_medium=ownedsocial&utm_source=twitter&utm_campaign=buffer)
 - [visionOS on Quest (before visionOS SDK release](https://www.vrcreators.io/visionos-demo-download)
@@ -115,28 +115,28 @@ Awesome Apple visionOS related content
 <a name="learn"></a>
 ## Learn
 - [Apple's Official Learn Page](https://developer.apple.com/visionos/learn/)
-<a name="learn-onlineCourses"></a>
+<a name="online-courses"></a>
 ### Online Courses
 - [Reality Uni](https://www.realityuni.com/courses/nextgenapps)
-<a name="learn-youtubeTutorials"></a>
+<a name="youtube-tutorials"></a>
 ### YouTube Tutorials
 - [Realtime Live Polls App](https://youtu.be/-JAiBE5Ned0)
-<a name="learn-githubRepos"></a>
+<a name="github-repos-1"></a>
 ### Github Repos
 - [Explore visionOS](https://github.com/castlewong/visionOS-Explorer)
 - [Getting Started Guide](https://github.com/hunterh37/Introduction-to-VisionOS-and-Spatial-Computing)
-<a name="learn-twitterPosts"></a>
+<a name="twitter-posts-1"></a>
 ### Twitter Posts
 - [Various Apple Resources](https://twitter.com/lindadong/status/1671620800024317954?s=20)
 - [Thread on AVP WWDC Talks by Reza Ali](https://twitter.com/RezaAli/status/1666131916951801857?s=20)
 - [Unity Polyspatial Thread by Eric Provencher](https://twitter.com/pvncher/status/1666476686576332800?s=20)
 - [WebXR feature flag](https://twitter.com/fernandojsg/status/1666082588132507660?s=20)
 - [AVP Spatial Audio by Sterling Crispin](https://twitter.com/sterlingcrispin/status/1666128456269299713)
-<a name="learn-podcasts"></a>
+<a name="podcasts"></a>
 ### Podcasts
 - [Voices of VR Episodes](https://twitter.com/kentbye/status/1666485886295605248?s=20)
 
-<a name="peopleToFollow"></a>
+<a name="people-to-follow"></a>
 ## People To Follow
 - [Satoshi](https://twitter.com/shmdevelop)
 - [Tina Nigro](https://twitter.com/tina__nigro)
@@ -148,7 +148,7 @@ Awesome Apple visionOS related content
 - [Jonathan Ravasz](https://twitter.com/jonathan_ravasz/status/1666523399525666817?s=20)
 - [Rich Lyons](https://twitter.com/richlyons_)
 
-<a name="arConcepts"></a>
+<a name="xr-concepts"></a>
 ## XR Concepts
 Concept work not necessarily specific to Apple Vision Pro but interesting nonetheless
 - Greg Madison's ["Unity Carte Blanche"](https://twitter.com/GregMadison/status/1665612120744947714?s=20)
@@ -161,7 +161,7 @@ Concept work not necessarily specific to Apple Vision Pro but interesting noneth
 - [Spatial Coding at f.inc](https://twitter.com/jmdagdelen/status/1669445713045098501)
 - [Couple AVP with AirTags](https://twitter.com/_LucasRizzotto/status/1667611515212689409?s=20)
 
-<a name="deviceHardwareSoftware"></a>
+<a name="device-hardware--software"></a>
 ## Device Hardware & Software
 - [Interaction study on Eye Gaze & Pinch](https://twitter.com/KenPfeuffer/status/1674198938650390528)
 - [1.5 Meter Resctriction](https://twitter.com/VRmaninJapan/status/1671710366651523073?s=20)
