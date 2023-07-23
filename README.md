@@ -21,6 +21,8 @@ Awesome Apple visionOS related content
 ## Prototypes
 <a name="prototypes-githubRepos"></a>
 ### Github Repos
+- [Music Player UI](https://github.com/vinothvino42/MusicPlayerUI-VisionOS)
+- [Open visionOS: Animations and UI Designs](https://github.com/amosgyamfi/OpenvisionOS)
 - [KSPlayer on visionOS](https://github.com/kingslay/KSPlayer)
 - [WGSL running in visionOS](https://github.com/jinleili/wgpu-in-app)
 - [30 Days with visionOS](https://github.com/satoshi0212/visionOS_30Days)
