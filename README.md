@@ -8,6 +8,8 @@ Awesome Apple visionOS related content
     - [Twitter Posts](#prototypes-twitterPosts)
     - [Other Sources](#prototypes-otherSources)
 - [Learn](#learn)
+    - [Online Courses](#learn-onlineCourses)
+    - [YouTube Tutorials](#learn-youtubeTutorials)
     - [Github Repos](#learn-githubRepos)
     - [Twitter Posts](#learn-twitterPosts)
     - [Podcasts](#learn-podcasts)
@@ -113,6 +115,12 @@ Awesome Apple visionOS related content
 <a name="learn"></a>
 ## Learn
 - [Apple's Official Learn Page](https://developer.apple.com/visionos/learn/)
+<a name="learn-onlineCourses"></a>
+### Online Courses
+- [Reality Uni](https://www.realityuni.com/courses/nextgenapps)
+<a name="learn-youtubeTutorials"></a>
+### YouTube Tutorials
+- [Realtime Live Polls App](https://youtu.be/-JAiBE5Ned0)
 <a name="learn-githubRepos"></a>
 ### Github Repos
 - [Explore visionOS](https://github.com/castlewong/visionOS-Explorer)
