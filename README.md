@@ -139,6 +139,7 @@ Awesome Apple visionOS related content
 - [Realtime Live Polls App](https://youtu.be/-JAiBE5Ned0)
 <a name="github-repos-1"></a>
 ### Github Repos
+- [Evolution of Metal, ARKit, and Reality Kit](https://github.com/ynagatomo/evolution-Metal-ARKit-RealityKit-sheet)
 - [Explore visionOS](https://github.com/castlewong/visionOS-Explorer)
 - [Getting Started Guide](https://github.com/hunterh37/Introduction-to-VisionOS-and-Spatial-Computing)
 <a name="twitter-posts-1"></a>
