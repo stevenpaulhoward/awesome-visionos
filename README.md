@@ -23,6 +23,7 @@ Awesome Apple visionOS related content
 ## Prototypes
 <a name="github-repos"></a>
 ### Github Repos
+- [Generative Wall Art](https://github.com/tracyhenry/GenerativeDoodleArt_VisionOS)
 - [Music Player UI](https://github.com/vinothvino42/MusicPlayerUI-VisionOS)
 - [Open visionOS: Animations and UI Designs](https://github.com/amosgyamfi/OpenvisionOS)
 - [KSPlayer on visionOS](https://github.com/kingslay/KSPlayer)
@@ -137,6 +138,7 @@ Awesome Apple visionOS related content
 <a name="youtube-tutorials"></a>
 ### YouTube Tutorials
 - [Realtime Live Polls App](https://youtu.be/-JAiBE5Ned0)
+- [Generative Wall Art app](https://youtu.be/IefFafD8mR8)
 <a name="github-repos-1"></a>
 ### Github Repos
 - [Evolution of Metal, ARKit, and Reality Kit](https://github.com/ynagatomo/evolution-Metal-ARKit-RealityKit-sheet)
