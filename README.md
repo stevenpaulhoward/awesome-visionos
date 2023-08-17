@@ -144,6 +144,7 @@ Awesome Apple visionOS related content
 - [Evolution of Metal, ARKit, and Reality Kit](https://github.com/ynagatomo/evolution-Metal-ARKit-RealityKit-sheet)
 - [Explore visionOS](https://github.com/castlewong/visionOS-Explorer)
 - [Getting Started Guide](https://github.com/hunterh37/Introduction-to-VisionOS-and-Spatial-Computing)
+- [Awesome RealityKit](https://github.com/divalue/Awesome-RealityKit)
 <a name="twitter-posts-1"></a>
 ### Twitter Posts
 - [Asset creation workflow](https://twitter.com/AtarayoSD/status/1678946713078464512?s=20)
