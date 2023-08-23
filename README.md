@@ -122,6 +122,7 @@ Awesome Apple visionOS related content
 - [Spline concept by Abe Yang](https://twitter.com/abeyang/status/1667289614766460930)
 - [WaterMinder App in Testflight](https://twitter.com/ksmolka/status/1682755245225517057?s=20)
 - [GOLF+ alluding to working prototype here](https://twitter.com/Rengle820/status/1667692788123590658?s=20) and [here](https://twitter.com/Rengle820/status/1667954382707605504?s=20)
+- [WebXR AR Multiplayer Dogfight Prototype](https://twitter.com/_asadmemon/status/1691236088072089600)
 <a name="other-sources"></a>
 ### Other Sources
 - [Apple Vision Pro eyes with iPhone on Quest](https://www.youtube.com/watch?v=po6piXWU1TI)
@@ -176,6 +177,7 @@ Awesome Apple visionOS related content
 - [Ben Hylak](https://twitter.com/benhylak/status/1666171775028449281?s=20)
 - [Jonathan Ravasz](https://twitter.com/jonathan_ravasz/status/1666523399525666817?s=20)
 - [Rich Lyons](https://twitter.com/richlyons_)
+- [Asad Memon](https://twitter.com/_asadmemon)
 
 <a name="xr-concepts"></a>
 ## XR Concepts
