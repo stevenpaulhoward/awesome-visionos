@@ -13,6 +13,7 @@ Awesome Apple visionOS related content
     - [Github Repos](#github-repos-1)
     - [Twitter Posts](#twitter-posts-1)
     - [Podcasts](#podcasts)
+- [Online Communities](#online-communities)
 - [People To Follow](#people-to-follow)
 - [AR Concepts](#xr-concepts)
 - [Hardware](#device-hardware--software)
@@ -140,6 +141,7 @@ Awesome Apple visionOS related content
 ### YouTube Tutorials
 - [Realtime Live Polls App](https://youtu.be/-JAiBE5Ned0)
 - [Generative Wall Art app](https://youtu.be/IefFafD8mR8)
+- [Basic Physics in RealityKit](https://www.youtube.com/watch?v=rIKRunZvgvA)
 <a name="github-repos-1"></a>
 ### Github Repos
 - [Evolution of Metal, ARKit, and Reality Kit](https://github.com/ynagatomo/evolution-Metal-ARKit-RealityKit-sheet)
@@ -161,6 +163,10 @@ Awesome Apple visionOS related content
 ### Podcasts
 - [Voices of VR Episodes](https://twitter.com/kentbye/status/1666485886295605248?s=20)
 
+<a name="online-communities"></a>
+### Online Communities
+- [visionOS Dev Communitiy](https://twitter.com/i/communities/1676670381879447564)
+
 <a name="people-to-follow"></a>
 ## People To Follow
 - [Yasuhito Nagatomo](https://twitter.com/AtarayoSD)
@@ -178,6 +184,7 @@ Awesome Apple visionOS related content
 - [Jonathan Ravasz](https://twitter.com/jonathan_ravasz/status/1666523399525666817?s=20)
 - [Rich Lyons](https://twitter.com/richlyons_)
 - [Asad Memon](https://twitter.com/_asadmemon)
+- [Joe Crotchett](https://twitter.com/joecrotchett)
 
 <a name="xr-concepts"></a>
 ## XR Concepts
