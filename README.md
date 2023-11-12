@@ -167,6 +167,9 @@ Awesome Apple visionOS related content
 ### Online Communities
 - [visionOS Dev Communitiy](https://twitter.com/i/communities/1676670381879447564)
 
+### Newsletter
+- [XR World Weekly by XReality.Zone](https://xreality.zone/en/tags/newsletter/)
+
 <a name="people-to-follow"></a>
 ## People To Follow
 - [Yasuhito Nagatomo](https://twitter.com/AtarayoSD)
@@ -185,6 +188,7 @@ Awesome Apple visionOS related content
 - [Rich Lyons](https://twitter.com/richlyons_)
 - [Asad Memon](https://twitter.com/_asadmemon)
 - [Joe Crotchett](https://twitter.com/joecrotchett)
+- [思琦SketchK](https://twitter.com/SketchK_47)
 
 <a name="xr-concepts"></a>
 ## XR Concepts
@@ -198,6 +202,12 @@ Concept work not necessarily specific to Apple Vision Pro but interesting noneth
 - [Guided tours in browser](https://twitter.com/albtaiuti/status/1672138397694201857)
 - [Spatial Coding at f.inc](https://twitter.com/jmdagdelen/status/1669445713045098501)
 - [Couple AVP with AirTags](https://twitter.com/_LucasRizzotto/status/1667611515212689409?s=20)
+- XReality.Zone's [Before developing visionOS, you need to understand the full view of Apple AR technology
+](https://xreality.zone/en/posts/apple-ar-before-development-vision-os)
+- XReality.Zone's [Beginner's guide to AR: Exploring Augmented Reality With Apple AR Tools](https://xreality.zone/en/posts/beginner-guide-to-ar-exploring-augmented-reality-with-apple-ar-tools)
+- XReality.Zone's [What Is Spatial Video On iPhone 15 Pro And Vision Pro](https://xreality.zone/en/posts/what-is-spatial-video-on-iphone-15-pro-and-apple-vision-pro)
+- XReality.Zone's [Breaking down the details of Meta Quest 3's upgrades to MR technology](https://xreality.zone/en/posts/detailed-analysis-of-the-upgrades-of-meta-quest-3-in-mr-technology)
+- XReality.Zone's [Unlocking the Power of visionOS Particles: A Detailed Tutorial](https://xreality.zone/en/posts/unlocking-the-power-of-visionOS-particles-a-detailed-tutorial)
 
 <a name="device-hardware--software"></a>
 ## Device Hardware & Software
