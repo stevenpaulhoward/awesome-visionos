@@ -143,6 +143,7 @@ Awesome Apple visionOS related content
 - [Realtime Live Polls App](https://youtu.be/-JAiBE5Ned0)
 - [Generative Wall Art app](https://youtu.be/IefFafD8mR8)
 - [Basic Physics in RealityKit](https://www.youtube.com/watch?v=rIKRunZvgvA)
+- [Model3D for Beginners](https://youtu.be/rbhaERwDMkQ?si=S-i9KMep11DRZ4y3)
 <a name="github-repos-1"></a>
 ### Github Repos
 - [Evolution of Metal, ARKit, and Reality Kit](https://github.com/ynagatomo/evolution-Metal-ARKit-RealityKit-sheet)
