@@ -55,6 +55,7 @@ Awesome Apple visionOS related content
 - [Simple Calculator](https://github.com/bahadiraraz/visionOS-example) and [here](https://github.com/ishaanbedi/Vision-Calculator) and [here](https://github.com/fukutawata/visionOS_calculator)
 - [visionOS in Quest](https://github.com/JustinPBarnett/visionOS-Demo)
 - [Develop with Imagine lol](https://github.com/BaeBae33/visionOS-develop-with-imagine)
+- [Wordle VisionOS Game](https://github.com/qaze/vision_wordle/)
 <a name="twitter-posts"></a>
 ### Twitter Posts
 - [Game Prototype](https://twitter.com/lKeyserSozel/status/1734612166807097750)
