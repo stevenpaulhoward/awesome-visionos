@@ -144,8 +144,15 @@ Awesome Apple visionOS related content
 - [Realtime Live Polls App](https://youtu.be/-JAiBE5Ned0)
 - [Generative Wall Art app](https://youtu.be/IefFafD8mR8)
 - [Basic Physics in RealityKit](https://www.youtube.com/watch?v=rIKRunZvgvA)
+- [Setting up Apple Vision Pro for xcode development](https://youtu.be/j7_0rJDuPBg?si=OLW1TM-dckLEDm_1)
+- [How to find UDID of Apple Vision Pro](https://youtu.be/oewsa-35dUg?si=EXmh5vmw5SCUF3mm)
 - [Model3D for Beginners](https://youtu.be/rbhaERwDMkQ?si=S-i9KMep11DRZ4y3)
 - [ImmersiveSpace/RealityView for beginners](https://youtu.be/6xWLIhlVYc4?si=_wA_C8XrrEJFEoiC)
+- [Fetching USDZ asset from server](https://youtu.be/TqZ72kVle8A?si=DGoYtoDa9uNOXLzt)
+- [Fetching multiple USDZ assets asynchronousley](https://youtu.be/qWfP7q9deuo?si=Y2eSKeDZ5n9C6RYd)
+- [Dragging ModelEntity](https://youtu.be/-QgThsbp8X0?si=FDxHi8bna8p5pTTB)
+- [How to create custom button for VisionOS](https://youtu.be/sCeUE0M2hWA?si=4MSynLLgT-yGcyDm)
+  
 <a name="github-repos-1"></a>
 ### Github Repos
 - [Evolution of Metal, ARKit, and Reality Kit](https://github.com/ynagatomo/evolution-Metal-ARKit-RealityKit-sheet)
