@@ -56,6 +56,7 @@ Awesome Apple visionOS related content
 - [visionOS in Quest](https://github.com/JustinPBarnett/visionOS-Demo)
 - [Develop with Imagine lol](https://github.com/BaeBae33/visionOS-develop-with-imagine)
 - [Wordle VisionOS Game](https://github.com/qaze/vision_wordle/)
+- [VisionGesture](https://github.com/AlohaYos/VisionGesture) - HandTracking example
 <a name="twitter-posts"></a>
 ### Twitter Posts
 - [Game Prototype](https://twitter.com/lKeyserSozel/status/1734612166807097750)
