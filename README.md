@@ -192,7 +192,7 @@ Awesome Apple visionOS related content
 - [Rich Lyons](https://twitter.com/richlyons_)
 - [Asad Memon](https://twitter.com/_asadmemon)
 - [Joe Crotchett](https://twitter.com/joecrotchett)
-- [思琦SketchK](https://twitter.com/SketchK_47)
+- [SwiftSIQI](https://twitter.com/SwiftSIQI)
 
 <a name="xr-concepts"></a>
 ## XR Concepts
