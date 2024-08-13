@@ -14,6 +14,7 @@ Awesome Apple visionOS related content
     - [Twitter Posts](#twitter-posts-1)
     - [Podcasts](#podcasts)
 - [Online Communities](#online-communities)
+- [Newsletter](#newsletter)
 - [People To Follow](#people-to-follow)
 - [AR Concepts](#xr-concepts)
 - [Hardware](#device-hardware--software)
@@ -171,12 +172,16 @@ Awesome Apple visionOS related content
 ### Online Communities
 - [visionOS Dev Communitiy](https://twitter.com/i/communities/1676670381879447564)
 
+<a name="newsletter"></a>
 ### Newsletter
+- [visionOS fan - Newsletter for Apple Vision Pro ᯅ](https://visionos.fan)
 - [XR World Weekly by XReality.Zone](https://xreality.zone/en/tags/newsletter/)
+
 
 <a name="people-to-follow"></a>
 ## People To Follow
 - [Yasuhito Nagatomo](https://twitter.com/AtarayoSD)
+- [Nikhil Gohil](https://twitter.com/nikhilgohil11)
 - [Satoshi](https://twitter.com/shmdevelop)
 - [Tina Nigro](https://twitter.com/tina__nigro)
 - [Bart Trzynadlowski](https://twitter.com/BartronPolygon)
